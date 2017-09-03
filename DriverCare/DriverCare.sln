@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DriverCare", "DriverCare.csproj", "{942AF08D-2DE6-5345-7FC4-91ACA61A35B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DriverCare.Editor", "DriverCare.Editor.csproj", "{A604D864-0246-98AD-06CC-707A09A5CD4C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{942AF08D-2DE6-5345-7FC4-91ACA61A35B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{942AF08D-2DE6-5345-7FC4-91ACA61A35B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{942AF08D-2DE6-5345-7FC4-91ACA61A35B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{942AF08D-2DE6-5345-7FC4-91ACA61A35B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A604D864-0246-98AD-06CC-707A09A5CD4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A604D864-0246-98AD-06CC-707A09A5CD4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A604D864-0246-98AD-06CC-707A09A5CD4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A604D864-0246-98AD-06CC-707A09A5CD4C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
